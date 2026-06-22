@@ -1,5 +1,5 @@
 # The Data & AI Challenge: Intelligent Candidate Ranking System
-
+ 
 ## Overview
 
 This repository contains the solution for "The Data & AI Challenge" in the India Runs hackathon. The goal of this project is to build an AI-powered candidate ranking system that moves beyond traditional keyword matching to semantically understand job descriptions and candidate profiles. The system aims to deliver a ranked shortlist of candidates that a recruiter can trust, by holistically evaluating career history, skills, behavioral signals, and platform activity.
